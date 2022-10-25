@@ -38,7 +38,7 @@ Content
 5. Data Preprocessing
 
 6. The Model Selection
-We models we have used: Logistic regression, KNeighborsClassifier, Random Forest and Decision Trees The model that perfomed the best was Random Forest 
+- The models we have used: Logistic regression, KNeighborsClassifier, Random Forest and Decision Trees The model that perfomed the best was Random Forest 
 
 7. Feature Importance
 
